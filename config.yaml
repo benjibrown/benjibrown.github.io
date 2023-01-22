@@ -119,7 +119,7 @@ params:
     title: "Benji."
     subtitle: "I code in python."
     content: ""
-    image: /images/hero.svg
+    image: /images/hero.png
     button:
       enable: true
       name: "Archcraft Theme Manager"
