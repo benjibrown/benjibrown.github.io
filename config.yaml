@@ -123,13 +123,13 @@ params:
     button:
       enable: true
       name: "Archcraft Theme Manager"
-      url: "#"
+      url: "https://github.com/benjibrown/atm"
       download: true
       newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url: https://github.com/benjibrown
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
@@ -142,8 +142,8 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
+      I am a python developer that daily drives linux and especially enjoys ricing linux desktops/systems.
+     
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
